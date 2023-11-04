@@ -1,0 +1,255 @@
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(89, 89, 219);
+    display: flex;    
+    }
+    .header1{
+        width: 320px;
+        height: 200px;
+        background-color: white;
+        /* float: left; */
+        margin-left: 0px;
+        background-color: rgb(240, 101, 14);
+        color: black;
+        text-decoration-line: none;
+        text-decoration-color: white;
+        text-align: center;
+    }
+    .header2{
+        width: 100%;
+        height: auto;
+        background-color: rgb(89, 89, 219);
+        margin-left: auto;
+        text-align: center;
+        font-size: 30px;
+        color: white;
+        padding-top: 25px;
+    
+    }
+    .header3{
+        width: 321px;
+        height: 200px;
+        background-color: white;
+        /* border: 2px rgb(5, 92, 24) solid; */
+        /* float: left; */
+        margin-left: 85px;
+        background-color: rgb(240, 101, 14);
+        color: black;
+        text-decoration-line: none;
+        text-decoration-color: white;
+        text-align: center;
+    }
+    
+    .footer{
+        width: 100%;
+        height: 600px;
+        background-color: rgb(225, 202, 203);
+        border: 1px rgb(206, 121, 17) solid;
+    }
+      /* mobiles spectionfication */
+    .samsung{
+        width: 100%;
+        height: 200px;
+        background-color: rgb(189, 189, 220);
+        display: flex;
+        color: white;
+        font-size: 30px;
+        text-align: center;
+           }
+           .samsungimg{
+            width: 400px;
+            height: 200px;
+        }
+    .samsung1{
+        width: 35%;
+        height: 150px;
+        background-color: rgb(147, 147, 167);
+        padding-top: 50px;
+        
+    }
+    .samsungname1{
+        width: 100%;
+        height: 305px;
+        display: flex;
+    }
+    .samsungname{
+        width: 500px;
+        height: 300px;
+        background-color: lightseagreen;
+        font-size: 25px;
+        text-align: center;
+        padding-top: 50px;
+        margin: 5px 0px 5px 0px;
+        float: left;
+    }
+    .samsungimg1{
+        width: 500px;
+        height: 300px;
+    }
+   
+    .samsung2{
+        width: 100%;
+        height: 2400px;
+        /* background-color: rgb(54, 178, 23); */
+        margin-top: 55px;
+        display: flex; 
+    }
+    .samsung3{
+        width: 20%;
+        height: 2400px;
+        background-color: rgb(89, 180, 130);
+    }
+    .samsung3A{
+        width: 80%;
+        height: 2400px;
+        background-color: darkolivegreen;
+        }
+    .samsung4{
+        width: 100%;
+        height: 450px;
+        background-color: rgb(6, 15, 117);
+        display: flex;
+        }
+    
+        .samsung6{
+            width: 60%;
+            height: 410px;
+            background-color: rgb(16, 32, 134);
+            color: white;
+            font-size: 30px;
+            text-align: center;
+            padding-top: 40px;
+        }
+        .samsung61{
+            width: 200px;
+            height: 50px;
+            float: left;
+            margin: 70px 10px 0px 40px;
+            color: white;
+            text-align: left;
+        }
+        .samsung62{
+            width: 200px;
+            height: 50px;
+            float: left;
+            margin: 70px 25px 0px 50px;
+            color: white;
+            text-align: left;
+        }
+        .samsung63{
+            width: 200px;
+            height: 50px;
+            float: left;
+            margin: 60px 20px 0px 40px;
+            color: white;
+            text-align: left;
+        }
+        .samsung64{
+            width: 200px;
+            height: 50px;
+            float: left;
+            margin: 60px 20px 0px 40px;
+            color: white;
+            text-align: left; 
+            }
+        .samsung65{
+            width: 200px;
+            height: 50px;
+            float: left;
+            margin: 60px 20px 0px 40px;
+            color: white;
+            text-align: left;
+        }
+        .samsung66{
+            width: 200px;
+            height: 50px;
+            float: left;
+            margin: 60px 20px 0px 40px;
+            color: white;
+            text-align: left;
+        }
+        .samsungimg2{
+            width: 95%;
+            height: 450px;
+        }
+
+        .samsung7{
+            width: 40%;
+            height: 450px;
+            overflow-x: scroll;
+            background-color: aliceblue;
+            margin-left: 5px;
+        
+        }
+        .samsung8{
+            width: 100%;
+            height: 200px;
+            /* border-bottom: 2px red solid; */
+            font-size: 20px;
+            text-align: center;
+            /* background-color: rgb(27, 134, 68); */
+            clear: both;
+        }
+        .samsung9{
+            width: 100%;
+            height: 800px;
+            /* border: 1px rgb(16, 204, 16) solid; */
+            clear: both;
+
+        }
+        .tab{
+            width: 120px;
+            height: 50px;
+            margin-left: 100px;
+            background-color: rgb(220, 126, 156);
+
+            border: 01px rgb(244, 241, 241) solid;
+        }
+        .tab1{
+            width: 500px;
+            height: auto;
+            margin-left: 100px;
+            color: white;
+            
+            border: 1px rgb(243, 238, 238) solid;
+        }
+        .footer{
+            width: 100%;
+            height: 400px;
+            background-color: rgb(225, 202, 203);
+            border: 1px rgb(206, 121, 17) solid;
+        }
+          #nav{
+            width: 100%;
+            height: 75px;
+            margin-top: 2ps;
+            clear: both;
+            display: flex;
+            text-decoration: none;
+          }  
+          .nav{
+            width: 200px;
+            height: 50px;
+            background-color: rgb(19, 187, 31);
+            color: darkgreen;
+            text-align: center;
+            font-size: 20px;
+            color: white;
+            text-decoration: none;
+            padding-top: 15px;
+            margin: 5px 50px 5px 50px;
+          }
+          .nav1{
+            width: 200px;
+            height: 50px;
+            text-align: center;
+            font-size: 20px;
+            color: darkgreen;
+            text-decoration: none;
+            padding-top: 15px;
+            margin: 5px 50px 5px 50px;
+          }
+    
+    
+
